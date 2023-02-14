@@ -1,11 +1,17 @@
 {
     "cSpell.words": [
         "hloi",
+        "ITEMTOPURCHASE"
     ],
     "files.associations": {
+        "*.html": "html",
         "new": "cpp",
         "iosfwd": "cpp",
-        "sstream": "cpp"
+        "sstream": "cpp",
+        "string": "cpp",
+        "iostream": "cpp",
+        "string_view": "cpp",
+        "ostream": "cpp"
     },
     "files.insertFinalNewline": true // Needed for webcat
 }
